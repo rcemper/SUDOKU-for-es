@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Export generator="IRIS" version="26" zv="IRIS for Windows (x86-64) 2020.1 (Build 215U)" ts="2020-07-17 15:26:19">
+<Export generator="Cache" version="25">
 <Routine name="SUDOKU5es" type="MAC" languagemode="0" timestamp="65577,54851.42898"><![CDATA[
 SUDOKU5es  ; version 1.5 spanish
      write #
