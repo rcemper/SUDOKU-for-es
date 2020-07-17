@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Export generator="Cache" version="25">
-  <Document name="SUDOKU-es.ZPM">
+  <Document name="sudoku-es.ZPM">
     <Module>
       <Name>terminal-multiline</Name>
       <Version>1.0.1</Version>
@@ -8,7 +8,7 @@
       <Keywords>Terminal, COS</Keywords>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
-       <Resource Name="SUDOKUes.MAC"/>
+       <Resource Name="sudokues.MAC"/>
     </Module>
   </Document>
 </Export>
