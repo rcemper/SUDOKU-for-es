@@ -1,4 +1,4 @@
-ROUTINE sudoku5es.mac
+ROUTINE SUDOKU5es
 SUDOKU5es  ; version 1.5 spanish
      write #
      for i=1:1:19 write $text(welcome+i),!
