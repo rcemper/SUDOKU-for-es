@@ -3,12 +3,12 @@
   <Document name="sudoku-es.ZPM">
     <Module>
       <Name>sudoku-es</Name>
-      <Version>1.0.3</Version>
+      <Version>1.0.4</Version>
       <Description>SUDOKU demo in Spanish</Description>
       <Keywords>Terminal, COS</Keywords>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
-       <Resource Name="sudoku5es.MAC"/>
+       <Resource Name="SUDOKU5es.MAC"/>
     </Module>
   </Document>
 </Export>
