@@ -26,3 +26,7 @@ Una demostración de estilo tradicional COS
      ;; Para una mejor visualización, necesita un terminal configurado a 48x80
      ;;
 Adelante:
+
+- ![](https://github.com/rcemper/SUDOKU-es/blob/master/SUDOKU3es.jpg)
+
+[Article in DC](https://es.community.intersystems.com/post/demo-de-sudoku)
