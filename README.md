@@ -27,6 +27,6 @@ Una demostración de estilo tradicional COS
      ;;
 Adelante:
 
-- ![](https://github.com/rcemper/SUDOKU-es/blob/master/SUDOKU3es.jpg)
+- ![(https://github.com/rcemper/SUDOKU-es/blob/master/SUDOKU3.jpg)](https://github.com/rcemper/SUDOKU-es/blob/master/SUDOKU3es.jpg)
 
 [Article in DC](https://es.community.intersystems.com/post/demo-de-sudoku)
