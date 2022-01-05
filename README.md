@@ -1,9 +1,3 @@
- ~~~
-  Este es un ejemplo de codificación que funciona en IRIS 2020.2 y en Caché 2018.1.3 
-  No se mantendrá sincronizado con las nuevas versiones.     
-  ¡Tampoco recibe servicio de InterSystems Support!   
-~~~ 
-
 Una demostración de estilo tradicional COS
   
      ;; ¡Bienvenido a esta demostración de SUDOKU!
