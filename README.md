@@ -1,4 +1,6 @@
 Una demostración de estilo tradicional COS
+
+IRISAPP>do ^SUDOKU5es
   
      ;; ¡Bienvenido a esta demostración de SUDOKU!
      ;; puedes resolver tu SUDOKU más fácilmente o crear el tuyo propio
