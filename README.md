@@ -23,5 +23,9 @@ Adelante:
 
 - ![](https://github.com/rcemper/SUDOKU-es/blob/master/SUDOKU3es.jpg?raw=true)  
 
-
 [Article in DC](https://es.community.intersystems.com/post/demo-de-sudoku)
+
+[Demo Server SMP](https://sudoku-es.demo.community.intersystems.com/csp/sys/UtilHome.csp)    
+[Demo Server WebTerminal](https://sudoku-es.demo.community.intersystems.com/terminal/)   
+
+**Code Quality** in SCREENSHOTS    
