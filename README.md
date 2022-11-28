@@ -23,7 +23,7 @@ IRISAPP>do ^SUDOKU5es
      ;;
 Adelante:  
 
-- ![](https://github.com/rcemper/SUDOKU-es/blob/master/SUDOKU3es.jpg?raw=true)  
+- ![](https://github.com/isc-at/SUDOKU-es/blob/master/SUDOKU3es.jpg?raw=true)  
 
 [Article in DC](https://es.community.intersystems.com/post/demo-de-sudoku)
 
