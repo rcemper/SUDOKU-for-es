@@ -27,8 +27,3 @@ Adelante:
 
 [Article in DC](https://es.community.intersystems.com/post/demo-de-sudoku)
 
-[Demo Server SMP](https://sudoku-es.demo.community.intersystems.com/csp/sys/UtilHome.csp)    
-[Demo Server WebTerminal](https://sudoku-es.demo.community.intersystems.com/terminal/)   
-
-**Code Quality**    
-<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/812/screenshots/0nbvkbgqswplwt1wsojzoowtjcy.jpg">
